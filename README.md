@@ -40,6 +40,10 @@ Image of the circuit
 <img src="http://pics.urlab.be/albums/arduino/yolo-octo-robot/1379689363_YOLO.png" width="50%"/>
 
 
+Video:
+======
+[On youtube](http://www.youtube.com/watch?v=2z4FI9DVOZA)
+
 
 Some Pictures :
 ======
