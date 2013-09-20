@@ -42,7 +42,7 @@ Image of the circuit
 
 Video:
 ======
-[On youtube](http://www.youtube.com/watch?v=2z4FI9DVOZA)
+[On youtube](http://www.youtube.com/watch?v=L6aGq1cdeks)
 
 
 Some Pictures :
