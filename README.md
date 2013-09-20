@@ -37,12 +37,12 @@ In order to decrease the high intensity of the led, we added a resistance after 
 Image of the circuit
 --------------------
 
-<img src="http://pics.urlab.be/albums/divers/1379688212_yolo_octo_robot.png"/>
+<img src="http://pics.urlab.be/albums/arduino/yolo-octo-robot/1379689363_YOLO.png" width="50%"/>
 
 
 
 Some Pictures :
 ======
-<img src="http://pics.urlab.be/albums/divers/1379685985_IMG_1163.JPG" width="50%"/>
-<img src="http://pics.urlab.be/albums/divers/1379685985_IMG_1165.JPG" width="50%"/>
-<img src="http://pics.urlab.be/albums/divers/1379685985_IMG_1166.JPG" width="50%"/>
+<img src="http://pics.urlab.be/albums/arduino/yolo-octo-robot/1379689114_IMG_1163_small.JPG" width="50%"/>
+<img src="http://pics.urlab.be/albums/arduino/yolo-octo-robot/1379689114_IMG_1165_small.JPG" width="50%"/>
+<img src="http://pics.urlab.be/albums/arduino/yolo-octo-robot/1379689114_IMG_1166_small.JPG" width="50%"/>
